@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{A84C2790-D8D9-46A2-BEF5-895F34C6E7CA}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="practice_asp.net/Controllers/HomeController.cs">
+    <Files>
+      <File FileName="practice_asp.net/Controllers/HomeController.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="practice_asp.net" expanded="True">
+            <Node name="practice_asp.net" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="HomeController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.practice__asp.net FirstBuild="True" PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
